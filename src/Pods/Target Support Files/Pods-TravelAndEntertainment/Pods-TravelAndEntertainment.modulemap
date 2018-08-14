@@ -1,0 +1,6 @@
+framework module Pods_TravelAndEntertainment {
+  umbrella header "Pods-TravelAndEntertainment-umbrella.h"
+
+  export *
+  module * { export * }
+}
